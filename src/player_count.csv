@@ -1,0 +1,361 @@
+,value,playerName,birthDate,firstName,shortName,country,club,clubOfficial,fieldPosition
+0,33,Neymar,1992-02-05,Neymar,Neymar,Brazil,PSG,Paris Saint-Germain FC,FWD
+1,32,K. De Bruyne,1991-06-28,Kevin,K. De Bruyne,Belgium,Manchester City,Manchester City FC,MID
+2,22,Isco,1992-04-21,Francisco Rom\u00e1n,Isco,Spain,Real Madrid,Real Madrid Club de F\u00fatbol,MID
+3,21,J. Quintero,1993-01-18,Juan Fernando,J. Quintero,Colombia,,,MID
+4,20,K. Trippier,1990-09-19,Kieran,K. Trippier,England,Tottenham Hotspur,Tottenham Hotspur FC,DEF
+5,17,Philippe Coutinho,1992-06-12,Philippe,Philippe Coutinho,Brazil,Barcelona,FC Barcelona,FWD
+6,16,D. Mertens,1987-05-06,Dries,D. Mertens,Belgium,Napoli,SSC Napoli,FWD
+7,15,P. Pogba,1993-03-15,Paul,P. Pogba,France,Manchester United,Manchester United FC,MID
+8,15,L. Su\u00e1rez,1987-01-24,Luis Alberto,L. Su\u00e1rez,Uruguay,Barcelona,FC Barcelona,FWD
+9,15,L. Su\u00e1rez,1996-03-03,Leonardo Gabriel,L. Su\u00e1rez,,,,MID
+10,15,X. Shaqiri,1991-10-10,Xherdan,X. Shaqiri,Switzerland,Liverpool,Liverpool FC,MID
+11,15,A. Rebi\u0107,1993-09-21,Ante,A. Rebi\u0107,Croatia,Eintracht Frankfurt,Eintracht Frankfurt,FWD
+12,14,L. Messi,1987-06-24,Lionel Andr\u00e9s,L. Messi,Argentina,Barcelona,FC Barcelona,FWD
+13,14,G. Sigur\u00f0sson,1989-09-08,Gylfi \u00de\u00f3r,G. Sigur\u00f0sson,Iceland,Everton,Everton FC,MID
+14,14,A. Griezmann,1991-03-21,Antoine,A. Griezmann,France,Atl\u00e9tico Madrid,Club Atl\u00e9tico de Madrid,FWD
+15,14,L. Modri\u0107,1985-09-09,Luka,L. Modri\u0107,Croatia,Real Madrid,Real Madrid Club de F\u00fatbol,MID
+16,13,I. Rakiti\u0107,1988-03-10,Ivan,I. Rakiti\u0107,Croatia,Barcelona,FC Barcelona,MID
+17,13,C. Cueva,1991-11-23,Christian Alberto,C. Cueva,Peru,,,MID
+18,12,K. Mbapp\u00e9,1998-12-20,Kylian,K. Mbapp\u00e9,France,PSG,Paris Saint-Germain FC,FWD
+19,12,S. Man\u00e9,1992-04-10,Sadio,S. Man\u00e9,Senegal,Liverpool,Liverpool FC,FWD
+20,12,M. \u00d6zil,1988-10-15,Mesut,M. \u00d6zil,Germany,Arsenal,Arsenal FC,MID
+21,12,Salman Al Faraj,1989-08-01,Salman Mohammed,Salman Al Faraj,Saudi Arabia,,,MID
+22,12,H. Kane,1993-07-28,Harry,H. Kane,England,Tottenham Hotspur,Tottenham Hotspur FC,FWD
+23,11,T. Meunier,1991-09-12,Thomas,T. Meunier,Belgium,PSG,Paris Saint-Germain FC,DEF
+24,11,M. Lay\u00fan,1988-06-25,Miguel Arturo,M. Lay\u00fan,Mexico,Villarreal,Villarreal Club de F\u00fatbol,DEF
+25,11,C. Vela,1989-03-01,Carlos Alberto,C. Vela,Mexico,,,FWD
+26,11,G. Shibasaki,1992-05-25,Gaku,G. Shibasaki,Japan,Getafe,Getafe Club de F\u00fatbol,MID
+27,10,M. Niang,1994-12-19,M'Baye Babacar,M. Niang,Senegal,Torino,Torino FC,FWD
+28,9,J. Kimmich,1995-02-08,Joshua,J. Kimmich,Germany,Bayern M\u00fcnchen,FC Bayern M\u00fcnchen,DEF
+29,9,T. M\u00fcller,1989-09-13,Thomas,T. M\u00fcller,Germany,Bayern M\u00fcnchen,FC Bayern M\u00fcnchen,FWD
+30,9,N. Chadli,1989-08-02,Nacer,N. Chadli,Belgium,West Bromwich Albion,West Bromwich Albion FC,MID
+31,9,\u0160. Vrsaljko,1992-01-10,\u0160ime,\u0160. Vrsaljko,Croatia,Internazionale,FC Internazionale Milano,DEF
+32,9,\u00c9. Banega,1988-06-29,\u00c9ver Maximiliano David,\u00c9. Banega,Argentina,Sevilla,Sevilla FC,MID
+33,9,David Silva,1986-01-08,David Josu\u00e9,David Silva,Spain,Manchester City,Manchester City FC,MID
+34,9,D. Alli,1996-04-11,Bamidele,D. Alli,England,Tottenham Hotspur,Tottenham Hotspur FC,MID
+35,9,M. Mand\u017euki\u0107,1986-01-14,Mario,M. Mand\u017euki\u0107,Croatia,Juventus,Juventus FC,FWD
+36,9,D. Tadi\u0107,1988-11-20,Du\u0161an,D. Tadi\u0107,Serbia,,,MID
+37,9,E. Hazard,1991-01-07,Eden,E. Hazard,Belgium,Chelsea,Chelsea FC,FWD
+38,8,Willian,1988-08-09,Willian,Willian,Brazil,Chelsea,Chelsea FC,MID
+39,8,C. Eriksen,1992-02-14,Christian ,C. Eriksen,Denmark,Tottenham Hotspur,Tottenham Hotspur FC,MID
+40,8,Jordi Alba,1989-03-21,Jordi,Jordi Alba,Spain,Barcelona,FC Barcelona,DEF
+41,8,Gabriel Jesus,1997-04-03,Gabriel Fernando,Gabriel Jesus,Brazil,Manchester City,Manchester City FC,FWD
+42,8,J. Boateng,1988-09-03,J\u00e9r\u00f4me,J. Boateng,Germany,Bayern M\u00fcnchen,FC Bayern M\u00fcnchen,DEF
+43,8,Marcelo,1987-05-20,Marcelo Ant\u00f4nio,Marcelo,,Olympique Lyonnais,Olympique Lyonnais,DEF
+44,8,Marcelo,1988-05-12,Marcelo,Marcelo,Brazil,Real Madrid,Real Madrid Club de F\u00fatbol,DEF
+45,8,J. Lingard,1992-12-15,Jesse,J. Lingard,England,Manchester United,Manchester United FC,MID
+46,8,O. Giroud,1986-09-30,Olivier,O. Giroud,France,Chelsea,Chelsea FC,FWD
+47,8,A. Mooy,1990-09-15,Aaron,A. Mooy,Australia,Huddersfield Town,Huddersfield Town FC,MID
+48,8,Iniesta,1984-05-11,Andr\u00e9s,Iniesta,Spain,,,MID
+49,7,A. Golovin,1996-05-30,Aleksandr,A. Golovin,Russia,Monaco,AS Monaco FC,MID
+50,7,S. Azmoun,1995-01-01,Sardar,S. Azmoun,Iran,,,FWD
+51,7,H. Herrera,1990-04-19,H\u00e9ctor Miguel,H. Herrera,Mexico,,,MID
+52,7,Cristiano Ronaldo,1985-02-05,Cristiano Ronaldo,Cristiano Ronaldo,Portugal,Juventus,Juventus FC,FWD
+53,7,A. Carrillo,1991-06-14,Andr\u00e9 Mart\u00edn,A. Carrillo,Peru,,,MID
+54,7,S. Milinkovi\u0107-Savi\u0107,1995-02-27,Sergej,S. Milinkovi\u0107-Savi\u0107,Serbia,Lazio,SS Lazio,MID
+55,7,V. Claesson,1992-01-02,Viktor,V. Claesson,Sweden,,,MID
+56,7,M. Berg,1986-08-17,Marcus,M. Berg,Sweden,,,FWD
+57,7,B. Ruiz,1985-08-18,Bryan,B. Ruiz,Costa Rica,,,MID
+58,6,I. Peri\u0161i\u0107,1989-02-02,Ivan,I. Peri\u0161i\u0107,Croatia,Internazionale,FC Internazionale Milano,MID
+59,6,J. Cuadrado,1988-05-26,Juan Guillermo,J. Cuadrado,Colombia,Juventus,Juventus FC,MID
+60,6,J. Cuadrado,1985-06-01,Jos\u00e9 Fernando,J. Cuadrado,,,,GKP
+61,6,A. Jahanbakhsh,1993-08-11,Alireza,A. Jahanbakhsh,Iran,Brighton & Hove Albion,Brighton & Hove Albion FC,FWD
+62,6,J. Henderson,1990-06-17,Jordan Brian,J. Henderson,England,Liverpool,Liverpool FC,MID
+63,6,Jae-Sung Lee,1992-08-10,Jae-Sung,Jae-Sung Lee,Korea Republic,,,MID
+64,6,R. Lukaku,1993-05-13,Romelu,R. Lukaku,Belgium,Manchester United,Manchester United FC,FWD
+65,6,R. Sterling,1994-12-08,Raheem Shaquille,R. Sterling,England,Manchester City,Manchester City FC,FWD
+66,6,S. Kagawa,1989-03-17,Shinji,S. Kagawa,Japan,Borussia Dortmund,BV Borussia 09 Dortmund,MID
+67,6,Abdallah Said,1985-07-13,Abdallah Mahmoud El Said,Abdallah Said,Egypt,,,MID
+68,6,T. Kroos,1990-01-04,Toni,T. Kroos,Germany,Real Madrid,Real Madrid Club de F\u00fatbol,MID
+69,6,W. Khazri,1991-02-08,Wahbi,W. Khazri,Tunisia,Saint-\u00c9tienne,AS Saint-\u00c9tienne,MID
+70,6,C. S\u00e1nchez,1984-12-02,Carlos Andr\u00e9s,C. S\u00e1nchez,Uruguay,,,MID
+71,6,C. S\u00e1nchez,1986-02-06,Carlos Alberto,C. S\u00e1nchez,Colombia,West Ham United,West Ham United FC,MID
+72,6,A. Samedov,1984-07-19,Alexandr,A. Samedov,Russia,,,MID
+73,6,H. Ziyech,1993-03-19,Hakim,H. Ziyech,Morocco,,,MID
+74,6,Son Heung-Min,1992-07-08,Heung-Min,Son Heung-Min,Korea Republic,Tottenham Hotspur,Tottenham Hotspur FC,FWD
+75,5,M. Lustig,1986-12-13,Mikael,M. Lustig,Sweden,,,DEF
+76,5,Diego Costa,1988-10-07,Diego,Diego Costa,Spain,Atl\u00e9tico Madrid,Club Atl\u00e9tico de Madrid,FWD
+77,5,A. Cooper,1987-11-26,Armando Enrique,A. Cooper,Panama,,,MID
+78,5,Y. Tielemans,1997-05-07,Youri,Y. Tielemans,Belgium,Monaco,AS Monaco FC,MID
+79,5,S. Zuber,1991-08-17,Steven,S. Zuber,Switzerland,Hoffenheim,TSG 1899 Hoffenheim,MID
+80,5,P. Zieli\u0144ski,1994-05-20,Piotr,P. Zieli\u0144ski,Poland,Napoli,SSC Napoli,MID
+81,5,\u00c1. di Mar\u00eda,1988-02-14,\u00c1ngel Fabi\u00e1n,\u00c1. di Mar\u00eda,Argentina,PSG,Paris Saint-Germain FC,MID
+82,5,O. Demb\u00e9l\u00e9,1997-05-15,Ousmane,O. Demb\u00e9l\u00e9,France,Barcelona,FC Barcelona,FWD
+83,5,A. Ljaji\u0107,1991-09-29,Adem,A. Ljaji\u0107,Serbia,Torino,Torino FC,FWD
+84,5,O. Toivonen,1986-07-03,Ola,O. Toivonen,Sweden,Toulouse,Toulouse FC,FWD
+85,5,Sergio Busquets,1988-07-16,Sergio,Sergio Busquets,Spain,Barcelona,FC Barcelona,MID
+86,5,H. Lozano,1995-07-30,Hirving Rodrigo,H. Lozano,Mexico,,,FWD
+87,5,E. P\u00e9rez,1986-02-22,Enzo Nicol\u00e1s,E. P\u00e9rez,Argentina,,,MID
+88,5,H. Maguire,1993-03-05,Harry ,H. Maguire,England,Leicester City,Leicester City FC,DEF
+89,5,J. Rodr\u00edguez,1991-07-12,James David,J. Rodr\u00edguez,Colombia,Bayern M\u00fcnchen,FC Bayern M\u00fcnchen,MID
+90,5,A. Young,1985-07-09,Ashley ,A. Young,England,Manchester United,Manchester United FC,DEF
+91,5,Salem Al Dawsari,1991-08-19,Salem Mohammed,Salem Al Dawsari,Saudi Arabia,,,MID
+92,5,C. Tolisso,1994-08-03,Corentin,C. Tolisso,France,Bayern M\u00fcnchen,FC Bayern M\u00fcnchen,MID
+93,4,Casemiro,1992-02-23,Carlos Henrique,Casemiro,Brazil,Real Madrid,Real Madrid Club de F\u00fatbol,MID
+94,4,J. Obi Mikel,1987-04-22,John Michael,J. Obi Mikel,Nigeria,,,MID
+95,4,B. D\u017eemaili,1986-04-12,Blerim,B. D\u017eemaili,Switzerland,Bologna,Bologna FC 1909,MID
+96,4,T. Alderweireld,1989-03-02,Toby,T. Alderweireld,Belgium,Tottenham Hotspur,Tottenham Hotspur FC,DEF
+97,4,N. Otamendi,1988-02-12,Nicol\u00e1s Hern\u00e1n,N. Otamendi,Argentina,Manchester City,Manchester City FC,DEF
+98,4,N. Amrabat,1987-03-31,Nordin,N. Amrabat,Morocco,,,FWD
+99,4,Bernardo Silva,1994-08-10,Bernardo,Bernardo Silva,Portugal,Manchester City,Manchester City FC,MID
+100,4,Yasir Al Shahrani,1992-05-25,Yasir Gharsan,Yasir Al Shahrani,Saudi Arabia,,,DEF
+101,4,Y. \u014csako,1990-05-18,Y\u016bya,Y. \u014csako,Japan,Werder Bremen,SV Werder Bremen,FWD
+102,4,Paulinho,1988-07-25,Jos\u00e9 Paulo,Paulinho,Brazil,,,MID
+103,4,A. Kramari\u0107,1991-06-19,Andrej,A. Kramari\u0107,Croatia,Hoffenheim,TSG 1899 Hoffenheim,FWD
+104,4,E. Dier,1994-01-15,Eric ,E. Dier,England,Tottenham Hotspur,Tottenham Hotspur FC,MID
+105,4,M. Trauco,1992-08-25,Miguel \u00c1ngel,M. Trauco,Peru,,,DEF
+106,4,F. Sassi,1992-03-18,Ferjani,F. Sassi,Tunisia,,,MID
+107,4,S. Larsson,1985-06-06,Sebastian,S. Larsson,Sweden,,,MID
+108,4,R. Rodr\u00edguez,1992-08-25,Ricardo Iv\u00e1n,R. Rodr\u00edguez,Switzerland,Milan,AC Milan,DEF
+109,4,T. Rogi\u0107,1992-12-16,Tom,T. Rogi\u0107,Australia,,,MID
+110,4,N. J\u00f8rgensen,1991-01-15,Nicolai,N. J\u00f8rgensen,Denmark,,,FWD
+111,4,J. Mascherano,1984-06-08,Javier Alejandro,J. Mascherano,Argentina,,,DEF
+112,4,Douglas Costa,1990-09-14,Douglas ,Douglas Costa,Brazil,Juventus,Juventus FC,MID
+113,4,Y. Sabaly,1993-03-05,Youssouf,Y. Sabaly,Senegal,Bordeaux,FC Girondins de Bordeaux,DEF
+114,4,K. Iheanacho,1996-03-10,Kelechi Promise,K. Iheanacho,Nigeria,Leicester City,Leicester City FC,FWD
+115,4,N. Tagliafico,1992-08-31,Nicol\u00e1s,N. Tagliafico,Argentina,,,DEF
+116,4,N. Sliti,1992-07-27,Na\u00efm,N. Sliti,Tunisia,Dijon,Dijon FCO,MID
+117,4,Y. B\u00e1rcenas,1993-10-23,Edgar Yoel,Y. B\u00e1rcenas,Panama,,,MID
+118,4,K. Grosicki,1988-06-08,Kamil,K. Grosicki,Poland,,,MID
+119,4,Gon\u00e7alo Guedes,1996-11-29,Gon\u00e7alo Manuel,Gon\u00e7alo Guedes,Portugal,PSG,Paris Saint-Germain FC,FWD
+120,4,Jo\u00e3o M\u00e1rio,1993-01-19,Jo\u00e3o M\u00e1rio,Jo\u00e3o M\u00e1rio,Portugal,Internazionale,FC Internazionale Milano,MID
+121,4,M. Rashford,1997-10-31,Marcus,M. Rashford,England,Manchester United,Manchester United FC,FWD
+122,4,D. Bronn,1995-06-19,Dylan,D. Bronn,Tunisia,,,DEF
+123,4,V. Moses,1990-12-12,Victor,V. Moses,Nigeria,Chelsea,Chelsea FC,MID
+124,4,J. Mojica,1992-08-21,Johan Andr\u00e9s,J. Mojica,Colombia,Girona,Girona FC,DEF
+125,4,J. Venegas,1988-11-27,Johan Alberto,J. Venegas,Costa Rica,,,MID
+126,3,B. Matuidi,1987-04-09,Blaise,B. Matuidi,France,Juventus,Juventus FC,MID
+127,3,Y. Nagatomo,1986-09-12,Yuto,Y. Nagatomo,Japan,,,DEF
+128,3,E. Forsberg,1991-10-23,Emil,E. Forsberg,Sweden,RB Leipzig,Rasen Ballsport Leipzig,MID
+129,3,A. Witsel,1989-01-12,Axel ,A. Witsel,Belgium,Borussia Dortmund,BV Borussia 09 Dortmund,MID
+130,3,R. Zobnin,1994-02-11,Roman,R. Zobnin,Russia,,,MID
+131,3,Daniel Carvajal,1992-01-11,Daniel,Daniel Carvajal,Spain,Real Madrid,Real Madrid Club de F\u00fatbol,DEF
+132,3,Lucas V\u00e1zquez,1991-07-01,Lucas,Lucas V\u00e1zquez,Spain,Real Madrid,Real Madrid Club de F\u00fatbol,FWD
+133,3,H. Dalsgaard,1989-07-27,Henrik,H. Dalsgaard,Denmark,,,DEF
+134,3,\u0130. G\u00fcndo\u011fan,1990-10-24,\u0130lkay,\u0130. G\u00fcndo\u011fan,Germany,Manchester City,Manchester City FC,MID
+135,3,E. Cavani,1987-02-14,Edinson Roberto,E. Cavani,Uruguay,PSG,Paris Saint-Germain FC,FWD
+136,3,T. Alexander-Arnold,1998-10-07,Trent,T. Alexander-Arnold,England,Liverpool,Liverpool FC,DEF
+137,3,Rapha\u00ebl Guerreiro,1993-12-22,Rapha\u00ebl Adelino Jos\u00e9,Rapha\u00ebl Guerreiro,Portugal,Borussia Dortmund,BV Borussia 09 Dortmund,DEF
+138,3,A. Dzyuba,1988-08-22,Artem,A. Dzyuba,Russia,,,FWD
+139,3,M. Brozovi\u0107,1992-11-16,Marcelo,M. Brozovi\u0107,Croatia,Internazionale,FC Internazionale Milano,MID
+140,3,F. Ben Youssef,1991-06-23,Fakhreddine,F. Ben Youssef,Tunisia,,,FWD
+141,3,R. Bentancur,1997-06-25,Rodrigo,R. Bentancur,Uruguay,Juventus,Juventus FC,MID
+142,3,M. C\u00e1ceres,1987-04-07,Jos\u00e9 Mart\u00edn,M. C\u00e1ceres,Uruguay,Lazio,SS Lazio,DEF
+143,3,Min-Woo Kim,1990-02-25,Min-Woo,Min-Woo Kim,Korea Republic,,,MID
+144,3,Ahmed Fathy,1984-11-10,Ahmed Fathy Abdel Meneim,Ahmed Fathy,Egypt,,,DEF
+145,3,T. Hazard,1993-03-29,Thorgan,T. Hazard,Belgium,Borussia M'gladbach,Borussia VfL M\u00f6nchengladbach,FWD
+146,3,B. Bereszy\u0144ski,1992-07-12,Bartosz,B. Bereszy\u0144ski,Poland,Sampdoria,UC Sampdoria,DEF
+147,3,C. Rodr\u00edguez,1985-09-30,Cristian Gabriel,C. Rodr\u00edguez,Uruguay,,,MID
+148,3,B. Ivanovi\u0107,1984-02-22,Branislav,B. Ivanovi\u0107,Serbia,,,DEF
+149,3,B. Embolo,1997-02-14,Breel-Donald,B. Embolo,Switzerland,Schalke 04,FC Schalke 04,FWD
+150,3,M\u00e1rio Fernandes,1990-09-19,M\u00e1rio Figueira,M\u00e1rio Fernandes,Russia,,,DEF
+151,3,Thiago Silva,1984-09-22,Thiago Emiliano,Thiago Silva,Brazil,PSG,Paris Saint-Germain FC,DEF
+152,3,J. Vardy,1987-01-11,Jamie,J. Vardy,England,Leicester City,Leicester City FC,FWD
+153,3,A. Finnbogason,1989-02-01,Alfre\u00f0,A. Finnbogason,Iceland,Augsburg,FC Augsburg,FWD
+154,3,H. Sakai,1990-04-12,Hiroki,H. Sakai,Japan,Olympique Marseille,Olympique de Marseille,DEF
+155,3,F\u00e1gner,1989-06-11,F\u00e1gner,F\u00e1gner,Brazil,,,DEF
+156,3,R. Falcao,1986-02-10,Radamel Falcao,R. Falcao,Colombia,Monaco,AS Monaco FC,FWD
+157,3,M. Braithwaite,1991-06-05,Martin,M. Braithwaite,Denmark,,,FWD
+158,3,M. Wagu\u00e9,1998-10-04,Moussa,M. Wagu\u00e9,Senegal,,,DEF
+159,3,M. Wagu\u00e9,1991-02-21,Molla,M. Wagu\u00e9,,Udinese,Udinese Calcio,DEF
+160,3,R. Rezaeian,1990-03-21,Ramin,R. Rezaeian,Iran,,,DEF
+161,3,M. Rybus,1989-08-19,Maciej,M. Rybus,Poland,,,DEF
+162,3,Koke,1992-01-08,Jorge,Koke,Spain,Atl\u00e9tico Madrid,Club Atl\u00e9tico de Madrid,MID
+163,3,Koke,1995-09-27,Jorge,Koke,,Levante,Levante UD,GKP
+164,3,Y. Carrasco,1993-09-04,Yannick,Y. Carrasco,Belgium,,,FWD
+165,3,O. Haddadi,1992-01-28,Oussama,O. Haddadi,Tunisia,Dijon,Dijon FCO,DEF
+166,3,K. Walker,1990-05-28,Kyle,K. Walker,England,Manchester City,Manchester City FC,DEF
+167,3,T. Inui,1988-06-02,Takashi,T. Inui,Japan,Real Betis,Real Betis Balompi\u00e9,MID
+168,3,D. Colindres,1985-01-10,Daniel,D. Colindres,Costa Rica,,,FWD
+169,3,E. Salvio,1990-07-13,Eduardo Antonio,E. Salvio,Argentina,,,MID
+170,3,A. Kolarov,1985-11-10,Aleksandar,A. Kolarov,Serbia,Roma,AS Roma,DEF
+171,3,H. Moreno,1988-01-17,H\u00e9ctor Alfredo,H. Moreno,Mexico,Real Sociedad,Real Sociedad de F\u00fatbol,DEF
+172,3,W. Ndidi,1996-12-16,Onyinye Wilfred,W. Ndidi,Nigeria,Leicester City,Leicester City FC,MID
+173,3,H. Nagguez,1992-10-28,Hamdi ,H. Nagguez,Tunisia,,,DEF
+174,3,J. Lerma,1994-10-25,Jefferson Andr\u00e9s,J. Lerma,Colombia,AFC Bournemouth,AFC Bournemouth,MID
+175,3,R. Lewandowski,1988-08-21,Robert,R. Lewandowski,Poland,Bayern M\u00fcnchen,FC Bayern M\u00fcnchen,FWD
+176,3,A. Guardado,1986-09-28,Jos\u00e9 Andr\u00e9s,A. Guardado,Mexico,Real Betis,Real Betis Balompi\u00e9,MID
+177,3,M. Reus,1989-05-31,Marco,M. Reus,Germany,Borussia Dortmund,BV Borussia 09 Dortmund,FWD
+178,3,A. Musa,1992-10-14,Ahmed,A. Musa,Nigeria,,,FWD
+179,3,J. Risdon,1992-07-27,Josh,J. Risdon,Australia,,,DEF
+180,3,Marwan Mohsen,1989-02-26,Marwan,Marwan Mohsen,Egypt,,,FWD
+181,3,J. Draxler,1993-09-20,Julian,J. Draxler,Germany,PSG,Paris Saint-Germain FC,MID
+182,2,J. Vertonghen,1987-04-24,Jan,J. Vertonghen,Belgium,Tottenham Hotspur,Tottenham Hotspur FC,DEF
+183,2,B. Pavard,1996-03-28,Benjamin,B. Pavard,France,Stuttgart,VfB Stuttgart 1893,DEF
+184,2,D. Guzm\u00e1n,1990-02-18,David Alberto,D. Guzm\u00e1n,Costa Rica,,,MID
+185,2,R. G\u00edslason,1988-02-25,R\u00farik,R. G\u00edslason,Iceland,,,FWD
+186,2,Abdullah Otayf,1992-08-03,Abdullah Ibrahim,Abdullah Otayf,Saudi Arabia,,,MID
+187,2,C. Bacca,1986-09-08,Carlos Arturo,C. Bacca,Colombia,Villarreal,Villarreal Club de F\u00fatbol,FWD
+188,2,A. Cornelius,1993-03-16,Andreas Evald,A. Cornelius,Denmark,Atalanta,Atalanta Bergamasca Calcio,FWD
+189,2,B. N'Diaye,1990-10-27,Papa Alioune,B. N'Diaye,Senegal,Stoke City,Stoke City FC,MID
+190,2,B. Oviedo,1990-02-18,Bryan,B. Oviedo,Costa Rica,,,DEF
+191,2,Hwang Hee-Chan,1996-01-26,Hee-Chan,Hwang Hee-Chan,Korea Republic,,,FWD
+192,2,J. Pivari\u0107,1989-01-30,Josip,J. Pivari\u0107,Croatia,,,DEF
+193,2,C. N'Doye,1986-03-29,Cheikh,C. N'Doye,Senegal,Angers,Angers SCO,MID
+194,2,D. Sidib\u00e9,1992-07-29,Djibril,D. Sidib\u00e9,France,Monaco,AS Monaco FC,DEF
+195,2,Tr\u00e9z\u00e9guet,1994-10-01,Mahmoud Ibrahim,Tr\u00e9z\u00e9guet,Egypt,,,MID
+196,2,A. Granqvist,1985-04-16,Andreas,A. Granqvist,Sweden,,,DEF
+197,2,G. Krychowiak,1990-01-29,Grzegorz,G. Krychowiak,,,,MID
+198,2,N. Mati\u0107,1988-08-01,Nemanja,N. Mati\u0107,Serbia,Manchester United,Manchester United FC,MID
+199,2,J. Hern\u00e1ndez,1988-06-01,Javier,J. Hern\u00e1ndez,Mexico,West Ham United,West Ham United FC,FWD
+200,2,M. Leckie,1991-02-04,Mathew,M. Leckie,Australia,Hertha BSC,Hertha BSC,FWD
+201,2,Y. Yot\u00fan,1990-04-07,V\u00edctor Yoshimar,Y. Yot\u00fan,Peru,,,MID
+202,2,A. J\u0119drzejczyk,1987-11-04,Artur,A. J\u0119drzejczyk,Poland,,,DEF
+203,2,J. Gim\u00e9nez,1995-01-20,Jos\u00e9 Mar\u00eda,J. Gim\u00e9nez,Uruguay,Atl\u00e9tico Madrid,Club Atl\u00e9tico de Madrid,DEF
+204,2,\u00d3. Duarte,1989-06-03,\u00d3scar Esau,\u00d3. Duarte,Costa Rica,Espanyol,Reial Club Deportiu Espanyol,DEF
+205,2,K. \u00c1rnason,1982-10-13,K\u00e1ri,K. \u00c1rnason,Iceland,,,DEF
+206,2,L. Augustinsson,1994-04-21,Hans Carl Ludwig,L. Augustinsson,Sweden,Werder Bremen,SV Werder Bremen,DEF
+207,2,S. Khaoui,1995-04-27,Sa\u00eef-Eddine,S. Khaoui,Tunisia,Olympique Marseille,Olympique de Marseille,MID
+208,2,H. Seferovi\u0107,1992-02-22,Haris,H. Seferovi\u0107,Switzerland,,,FWD
+209,2,Chul Hong,1990-09-17,Chul,Chul Hong,Korea Republic,,,DEF
+210,2,C. Gamboa,1989-10-24,Cristian,C. Gamboa,Costa Rica,,,DEF
+211,2,\u0141. Piszczek,1985-06-03,\u0141ukasz,\u0141. Piszczek,Poland,Borussia Dortmund,BV Borussia 09 Dortmund,DEF
+212,2,M. G\u00f3mez,1985-07-10,Mario,M. G\u00f3mez,Germany,Stuttgart,VfB Stuttgart 1893,FWD
+213,2,Tarek Hamed,1988-10-24,Tarek,Tarek Hamed,Egypt,,,MID
+214,2,A. Hakimi,1998-11-04,Achraf,A. Hakimi,Morocco,Borussia Dortmund,BV Borussia 09 Dortmund,DEF
+215,2,Y. Poulsen,1994-06-15,Yussuf,Y. Poulsen,Denmark,RB Leipzig,Rasen Ballsport Leipzig,FWD
+216,2,T. Werner,1996-03-06,Timo,T. Werner,Germany,RB Leipzig,Rasen Ballsport Leipzig,FWD
+217,2,K. Honda,1986-06-13,Keisuke,K. Honda,Japan,,,MID
+218,2,Ricardo Quaresma,1983-09-26,Ricardo,Ricardo Quaresma,Portugal,,,FWD
+219,2,M. Vecino,1991-08-24,Mat\u00edas,M. Vecino,Uruguay,Internazionale,FC Internazionale Milano,MID
+220,2,S. Ezatolahi,1996-10-01,Saeid,S. Ezatolahi,Iran,,,MID
+221,2,J. Gu\u00f0munds\u00adson,1990-10-27,Johann ,J. Gu\u00f0munds\u00adson,Iceland,Burnley,Burnley FC,MID
+222,2,C. Ramos,1988-11-04,Christian Guillermo Mart\u00edn,C. Ramos,Peru,,,DEF
+223,2,Fernandinho,1985-05-04,Fernando Luiz,Fernandinho,Brazil,Manchester City,Manchester City FC,MID
+224,2,S. Arias,1992-01-13,Santiago,S. Arias,Colombia,Atl\u00e9tico Madrid,Club Atl\u00e9tico de Madrid,DEF
+225,2,F. Smolov,1990-02-09,Fyodor,F. Smolov,Russia,,,FWD
+226,2,Se-Jong Ju,1990-10-30,Se-Jong,Se-Jong Ju,Korea Republic,,,MID
+227,2,A. Dzagoev,1990-06-17,Alan,A. Dzagoev,Russia,,,MID
+228,2,V. Amiri,1988-04-02,Vahid,V. Amiri,Iran,,,MID
+229,2,Roberto Firmino,1991-10-02,Roberto Firmino,Roberto Firmino,Brazil,Liverpool,Liverpool FC,FWD
+230,2,C\u00e9dric Soares,1991-08-31,C\u00e9dric Ricardo,C\u00e9dric Soares,Portugal,Southampton,Southampton FC,DEF
+231,2,J. Rodriguez,1998-06-19,Jos\u00e9 Luis,J. Rodriguez,Panama,,,MID
+232,2,J. Rodriguez,1989-07-29,Jay,J. Rodriguez,,West Bromwich Albion,West Bromwich Albion FC,FWD
+233,2,N. Dirar,1986-02-25,Nabil,N. Dirar,Morocco,,,MID
+234,2,Iago Aspas,1987-08-01,Iago,Iago Aspas,Spain,Celta de Vigo,Real Club Celta de Vigo,FWD
+235,2,Y. Belhanda,1990-02-25,Youn\u00e8s,Y. Belhanda,Morocco,,,MID
+236,2,A. Badri,1990-09-18,Anice,A. Badri,Tunisia,,,FWD
+237,2,S. Ag\u00fcero,1988-06-02,Sergio Leonel,S. Ag\u00fcero,Argentina,Manchester City,Manchester City FC,FWD
+238,2,M. Fellaini,1987-11-22,Marouane,M. Fellaini,Belgium,Manchester United,Manchester United FC,MID
+239,2,B. Bjarnason,1988-05-27,Birkir,B. Bjarnason,Iceland,,,MID
+240,2,E. \u00c1lvarez,1997-10-24,Edson Omar,E. \u00c1lvarez,Mexico,,,DEF
+241,2,M. Meza,1992-12-15,Maximiliano Eduardo,M. Meza,Argentina,,,MID
+242,2,T. Lemar,1995-11-12,Thomas,T. Lemar,France,Atl\u00e9tico Madrid,Club Atl\u00e9tico de Madrid,MID
+243,2,Mohamed Elneny,1992-07-11,Mohamed Naser,Mohamed Elneny,Egypt,Arsenal,Arsenal FC,MID
+244,2,A. Arroyo,1993-12-13,Abdiel,A. Arroyo,Panama,,,FWD
+245,2,N. N\u00e1ndez,1995-12-28,Nahitan Michel,N. N\u00e1ndez,Uruguay,,,MID
+246,2,Mohamed Salah,1992-06-15,Mohamed ,Mohamed Salah,Egypt,Liverpool,Liverpool FC,FWD
+247,2,G. Higua\u00edn,1987-12-10,Gonzalo Gerardo,G. Higua\u00edn,Argentina,Milan,AC Milan,FWD
+248,2,M. Gavranovi\u0107,1989-11-24,Mario,M. Gavranovi\u0107,Switzerland,,,FWD
+249,2,I. Strini\u0107,1987-07-17,Ivan,I. Strini\u0107,Croatia,Milan,AC Milan,DEF
+250,2,G. Mercado,1987-03-18,Gabriel Iv\u00e1n,G. Mercado,Argentina,Sevilla,Sevilla FC,DEF
+251,1,V. Kompany,1986-04-10,Vincent,V. Kompany,Belgium,Manchester City,Manchester City FC,DEF
+252,1,L. Adv\u00edncula,1990-03-02,Luis Jan Piers,L. Adv\u00edncula,Peru,,,DEF
+253,1,S. Lichtsteiner,1984-01-16,Stephan,S. Lichtsteiner,Switzerland,Arsenal,Arsenal FC,DEF
+254,1,A. Erokhin,1989-10-13,Aleksandr,A. Erokhin,Russia,,,MID
+255,1,P. Guerrero,1984-01-01,Jos\u00e9 Paolo,P. Guerrero,Peru,,,FWD
+256,1,S. Okazaki,1986-04-16,Shinji,S. Okazaki,Japan,Leicester City,Leicester City FC,FWD
+257,1,M. Krohn-Dehli,1983-06-06,Michael,M. Krohn-Dehli,Denmark,Deportivo La Coru\u00f1a,Real Club Deportivo de La Coru\u00f1a,MID
+258,1,O. Ebrahimi,1987-09-16,Omid,O. Ebrahimi,Iran,,,MID
+259,1,J. Gallardo,1994-08-15,Jes\u00fas Daniel,J. Gallardo,Mexico,,,MID
+260,1,P. Sisto,1995-02-04,Pione,P. Sisto,Denmark,Celta de Vigo,Real Club Celta de Vigo,MID
+261,1,C. Borges,1988-08-27,Celso,C. Borges,Costa Rica,,,MID
+262,1,Bruno Fernandes,1994-09-08,Bruno Miguel,Bruno Fernandes,Portugal,,,MID
+263,1,A. Sk\u00falason,1987-05-14,Ari Freyr,A. Sk\u00falason,Iceland,,,DEF
+264,1,J. Irvine,1993-03-07,Jackson,J. Irvine,Australia,,,MID
+265,1,L. Milivojevi\u0107,1991-04-07,Luka,L. Milivojevi\u0107,Serbia,Crystal Palace,Crystal Palace FC,MID
+266,1,Fahad Al Muwallad,1994-09-14,Fahad Mosaed,Fahad Al Muwallad,Saudi Arabia,,,FWD
+267,1,A. Gudmundsson,1997-06-15,Albert,A. Gudmundsson,Iceland,,,FWD
+268,1,R. Kurzawa,1993-01-29,Rafa\u0142,R. Kurzawa,Poland,Amiens SC,Amiens SC,MID
+269,1,S. Kj\u00e6r,1989-03-26,Simon,S. Kj\u00e6r,Denmark,Sevilla,Sevilla FC,DEF
+270,1,B. Mendy,1994-07-17,Benjamin,B. Mendy,France,Manchester City,Manchester City FC,DEF
+271,1,J. Hector,1990-05-27,Jonas,J. Hector,Germany,K\u00f6ln,1. FC K\u00f6ln,DEF
+272,1,Renato Augusto,1988-02-08,Renato ,Renato Augusto,Brazil,,,MID
+273,1,D. S\u00e1nchez,1996-06-12,Davinson,D. S\u00e1nchez,Colombia,Tottenham Hotspur,Tottenham Hotspur FC,DEF
+274,1,\u0141. Teodorczyk,1991-06-03,\u0141ukasz,\u0141. Teodorczyk,,Udinese,Udinese Calcio,FWD
+275,1,D. Arzani,1999-01-04,Daniel,D. Arzani,Australia,,,MID
+276,1,P. Jansson,1991-02-13,Pontus,P. Jansson,Sweden,,,DEF
+277,1,J. Guidetti,1992-04-15,John,J. Guidetti,Sweden,Deportivo Alav\u00e9s,Deportivo Alav\u00e9s,FWD
+278,1,A. Ekdal,1989-07-28,Albin,A. Ekdal,Sweden,Sampdoria,UC Sampdoria,MID
+279,1,F. Kudryashov,1987-04-05,Fedor,F. Kudryashov,Russia,,,DEF
+280,1,\u00c9. Flores,1994-05-14,\u00c9dison Michael,\u00c9. Flores,Peru,,,MID
+281,1,R. Tapia,1995-07-28,Renato Fabrizio,R. Tapia,Peru,,,MID
+282,1,D. Vida,1989-04-29,Domagoj,D. Vida,Croatia,,,DEF
+283,1,N. Kant\u00e9,1991-03-29,N'Golo,N. Kant\u00e9,France,Chelsea,Chelsea FC,MID
+284,1,Y. Zhirkov,1983-08-20,Yuri,Y. Zhirkov,Russia,,,MID
+285,1,M. Jedinak,1984-08-03,Mile,M. Jedinak,Australia,,,MID
+286,1,E. Davis,1991-03-31,Erick Javier,E. Davis,Panama,,,DEF
+287,1,M. Boussoufa,1984-08-15,Mbark,M. Boussoufa,Morocco,,,MID
+288,1,F. Delph,1989-11-21,Fabian,F. Delph,England,Manchester City,Manchester City FC,MID
+289,1,Danilo,1991-07-15,Danilo Luiz,Danilo,Brazil,Manchester City,Manchester City FC,DEF
+290,1,Danilo,1984-05-10,Danilo,Danilo,,Udinese,Udinese Calcio,DEF
+291,1,T. Juri\u0107,1991-07-22,Tomi,T. Juri\u0107,Australia,,,FWD
+292,1,M. Yoshida,1988-08-24,Maya,M. Yoshida,Japan,Southampton,Southampton FC,DEF
+293,1,G. Sakai,1991-03-14,Gotoku,G. Sakai,Japan,Hamburger SV,Hamburger SV,DEF
+294,1,L. Torreira,1996-02-11,Lucas,L. Torreira,Uruguay,Arsenal,Arsenal FC,MID
+295,1,I. Kutepov,1993-07-29,Ilya,I. Kutepov,Russia,,,DEF
+296,1,Marco Asensio,1996-01-21,Marco,Marco Asensio,Spain,Real Madrid,Real Madrid Club de F\u00fatbol,MID
+297,1,M. Rojo,1990-03-20,Faustino Marcos Alberto,M. Rojo,,Manchester United,Manchester United FC,DEF
+298,1,N. Fekir,1993-07-18,Nabil,N. Fekir,France,Olympique Lyonnais,Olympique Lyonnais,MID
+299,1,M. Badelj,1989-02-25,Milan,M. Badelj,Croatia,Lazio,SS Lazio,MID
+300,1,M. Murillo,1996-02-11,Michael Amir,M. Murillo,Panama,,,DEF
+301,1,Adrien Silva,1989-03-15,Adrien Sebastian,Adrien Silva,Portugal,Leicester City,Leicester City FC,MID
+302,1,K. Omeruo,1993-10-17,Kenneth Josiah,K. Omeruo,Nigeria,Legan\u00e9s,CD Legan\u00e9s,DEF
+303,1,D. Lovren,1989-07-05,Dejan,D. Lovren,Croatia,Liverpool,Liverpool FC,DEF
+304,1,L. Tejada,1982-03-28,Luis Carlos,L. Tejada,Panama,,,FWD
+305,1,M. Pjaca,1995-05-06,Marko,M. Pjaca,Croatia,Fiorentina,ACF Fiorentina,FWD
+306,1,A. Machado,1985-02-14,Adolfo Abdiel,A. Machado,Panama,,,DEF
+307,1,K. El Ahmadi,1985-01-27,Karim,K. El Ahmadi,Morocco,,,MID
+308,1,F. Fajr,1988-08-01,Fay\u00e7al,F. Fajr,Morocco,Caen,Stade Malherbe Caen,MID
+309,1,M. Taremi,1992-07-18,Mehdi,M. Taremi,Iran,,,FWD
+310,1,P. Aquino,1995-04-13,Pedro Jes\u00fas,P. Aquino,Peru,,,MID
+311,1,Young-Gwon Kim,1990-02-27,Young-Gwon,Young-Gwon Kim,Korea Republic,,,DEF
+312,1,J. Brandt,1996-05-02,Julian,J. Brandt,Germany,Bayer Leverkusen,TSV Bayer 04 Leverkusen,MID
+313,1,Hattan Bahbir,1992-07-16,Hattan,Hattan Bahbir,Saudi Arabia,,,MID
+314,1,C. Pav\u00f3n,1996-01-21,Cristian David,C. Pav\u00f3n,Argentina,,,FWD
+315,1,Sung-Yeung Ki,1989-01-24,Sung-Yeung,Sung-Yeung Ki,Korea Republic,Newcastle United,Newcastle United FC,MID
+316,1,R. Jim\u00e9nez,1991-05-05,Ra\u00fal Alonso,R. Jim\u00e9nez,Mexico,,,FWD
+317,1,K. Koulibaly,1991-06-20,Kalidou,K. Koulibaly,Senegal,Napoli,SSC Napoli,DEF
+318,1,T. Usami,1992-05-06,Takashi,T. Usami,Japan,,,FWD
+319,1,M. Hummels,1988-12-16,Mats ,M. Hummels,Germany,Bayern M\u00fcnchen,FC Bayern M\u00fcnchen,DEF
+320,1,Yong Lee,1986-12-24,Yong,Yong Lee,Korea Republic,,,DEF
+321,1,D. Zakaria,1996-11-20,Denis Lemi,D. Zakaria,Switzerland,Borussia M'gladbach,Borussia VfL M\u00f6nchengladbach,MID
+322,1,O. Ighalo,1989-06-16,Odion Jude,O. Ighalo,Nigeria,,,FWD
+323,1,I. Gueye,1989-09-26,Idrissa Gana,I. Gueye,Senegal,Everton,Everton FC,MID
+324,1,B. Keita,1995-03-08,Keita,B. Keita,Senegal,Internazionale,FC Internazionale Milano,FWD
+325,1,J. Campbell,1992-06-26,Joel Nathaniel,J. Campbell,Costa Rica,,,FWD
+326,1,J. Stones,1994-05-28,John,J. Stones,England,Manchester City,Manchester City FC,DEF
+327,1,S. San\u00e9,1990-08-25,Salif,S. San\u00e9,Senegal,Schalke 04,FC Schalke 04,DEF
+328,1,W. Barrios,1993-10-16,W\u00edlmar Enrique,W. Barrios,Colombia,,,MID
+329,1,A. Ma\u00e2loul,1990-01-01,Ali,A. Ma\u00e2loul,,,,DEF
+330,1,Nacho,1990-01-18,Jos\u00e9 Ignacio,Nacho,Spain,Real Madrid,Real Madrid Club de F\u00fatbol,DEF
+331,1,Manuel Fernandes,1986-02-05,Manuel Henrique,Manuel Fernandes,Portugal,,,MID
+332,1,G. Chaalali,1994-02-28,Ghilane,G. Chaalali,Tunisia,,,MID
+333,1,A. Rukavina,1984-01-26,Antonio,A. Rukavina,Serbia,,,DEF
+334,1,L. Sch\u00f6ne,1986-05-27,Lasse,L. Sch\u00f6ne,Denmark,,,MID
+335,1,William Carvalho,1992-04-07,William,William Carvalho,Portugal,Real Betis,Real Betis Balompi\u00e9,MID
+336,1,A. Harit,1997-06-18,Amine,A. Harit,Morocco,Schalke 04,FC Schalke 04,MID
+337,1,Jo\u00e3o Moutinho,1986-09-08,Jo\u00e3o Filipe,Jo\u00e3o Moutinho,Portugal,,,MID
+338,1,D. God\u00edn,1986-02-16,Diego Roberto,D. God\u00edn,Uruguay,Atl\u00e9tico Madrid,Club Atl\u00e9tico de Madrid,DEF
+339,1,Jo\u00e3o Miranda,1984-09-07,Jo\u00e3o,Jo\u00e3o Miranda,Brazil,Internazionale,FC Internazionale Milano,DEF
+340,1,P. Hurtado,1990-07-27,Christopher Paolo C\u00e9sar,P. Hurtado,Peru,,,MID
+341,1,M. Kova\u010di\u0107,1994-05-06,Mateo,M. Kova\u010di\u0107,Croatia,Chelsea,Chelsea FC,MID
+342,1,F. Kosti\u0107,1992-11-01,Filip,F. Kosti\u0107,Serbia,Hamburger SV,Hamburger SV,MID
+343,1,L. Hern\u00e1ndez,1996-02-14,Lucas ,L. Hern\u00e1ndez,France,Atl\u00e9tico Madrid,Club Atl\u00e9tico de Madrid,DEF
+344,1,R. Varane,1993-04-25,Rapha\u00ebl,R. Varane,France,Real Madrid,Real Madrid Club de F\u00fatbol,DEF
+345,1,O. Etebo,1995-11-09,Oghenekaro,O. Etebo,Nigeria,Stoke City,Stoke City FC,FWD
+346,1,A. Aguilar,1985-01-06,Abel Enrique,A. Aguilar,Colombia,,,MID
+347,1,D. Cheryshev,1990-12-26,Denis,D. Cheryshev,Russia,Valencia,Valencia Club de F\u00fatbol,MID
+348,1,R. Loftus-Cheek,1996-01-23,Ruben,R. Loftus-Cheek,England,Chelsea,Chelsea FC,MID
+349,1,Sergio Ramos,1986-03-30,Sergio,Sergio Ramos,Spain,Real Madrid,Real Madrid Club de F\u00fatbol,DEF
+350,1,A. Rodr\u00edguez,1990-08-05,Alex Ra\u00fal,A. Rodr\u00edguez,Panama,,,GKP
+351,1,A. Rodr\u00edguez,1984-03-31,Alberto Junior,A. Rodr\u00edguez,,,,DEF
+352,1,P. Jones,1992-02-21,Phil,P. Jones,England,Manchester United,Manchester United FC,DEF
+353,1,R. Avila,1997-02-04,Ricardo,R. Avila,,,,MID
+354,1,B. Idowu,1992-05-18,Brian Oladapo,B. Idowu,Nigeria,,,DEF
+355,1,A. Gunnarsson,1989-04-22,Aron Einar,A. Gunnarsson,Iceland,,,MID
+356,1,T. Delaney,1991-09-03,Thomas,T. Delaney,Denmark,Borussia Dortmund,BV Borussia 09 Dortmund,MID
+357,1,S. Umtiti,1993-11-14,Samuel Yves,S. Umtiti,France,Barcelona,FC Barcelona,DEF
+358,1,M. Fabi\u00e1n,1989-07-21,Marco Jhonfai,M. Fabi\u00e1n,Mexico,Eintracht Frankfurt,Eintracht Frankfurt,MID
+359,1,Mohamed Abdel-Shafi,1985-07-01,Mohamed,Mohamed Abdel-Shafi,Egypt,,,DEF
