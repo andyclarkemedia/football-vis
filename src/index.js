@@ -2,14 +2,25 @@
 // This file will render the game on the page 
 // =======================
 
-// Import Statements
+
+
+
+// =====================
+// GENERAL IMPORTS
+// =====================
 
 
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-import {selectVisualisation, animateWindowDrop, animateWindowHide } from './visualisations.js'
+
+// =====================
+// VISUALISATION IMPORTS
+// =====================
+
+import {selectVisualisation } from './visualisations.js';
+import { animateWindowDrop, animateWindowHide, animateWindowDropEvents } from './utils.js';
  
 
 
@@ -57,6 +68,7 @@ class Visualisation extends React.Component {
   }
 
 
+
   // Update Visualisation State
 
 
@@ -88,7 +100,7 @@ class Visualisation extends React.Component {
 
           <p id="events-selection-title" className="selection-title" >See the Play</p>
 
-          <button className="home-selection-button" onClick={ () => this.changeActiveVisualisation("events") } > View </button>
+          <button className="home-selection-button" onClick={ () => {this.changeActiveVisualisation("events") ; animateWindowDropEvents()} } > View </button>
 
         </div>
 

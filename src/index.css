@@ -60,7 +60,6 @@ BACKGROUND
 	grid-row: 1/3;
 	grid-column: 2/6;
 	justify-self: center;
-
 }
 
 
@@ -169,7 +168,7 @@ VIS CONTAINER
 	cursor: pointer;
 }
 
-.whole-page-ranking-container {
+.whole-page-ranking-container, .whole-page-events-container {
 	width: 100vw;
 	height: 100vh;
 	grid-column: 1/11;
@@ -179,6 +178,17 @@ VIS CONTAINER
   	grid-template-rows: repeat(8, 1fr);
 }
 
+
+
+/*
+==============================================================================================================
+==============================================================================================================
+
+RANKING VISUALISATION
+
+==============================================================================================================
+==============================================================================================================
+*/
 
 /*
 =======================================================
@@ -194,6 +204,10 @@ rect {
 	fill: #8ee4af;
 }
 
+image {
+	opacity: 1;
+	z-index: 10000;
+}
 
 #svg-ranking-container {
 	z-index: 1;
@@ -316,7 +330,7 @@ SELECT PLAYER MENU
 
 #select-player-menu {
 	grid-column: 3/9;
-	grid-row: 2/5;
+	grid-row: 2/7;
 	background-color: #EDF5E1;
 	opacity: 0;
 	z-index: 1000;
@@ -324,8 +338,17 @@ SELECT PLAYER MENU
 	border: .1em solid #282828;
 	grid-template-columns: repeat(10, 1fr);
   	grid-template-rows: repeat(6, 1fr);
+  	overflow: scroll;
 }
 
+#select-player-menu-title {
+	font-weight: 700;
+	font-size: 2em;
+	grid-column: 2/9;
+	grid-row: 1;
+	align-self: center;
+
+}
 
 .close-window-image-menu {
 	width: 3vw;
@@ -334,5 +357,337 @@ SELECT PLAYER MENU
 	grid-row: 1;
 	padding: .5em;
 	opacity: 0;
+}
 
+
+#scrollable-players {
+	overflow: scroll;
+	grid-column: 2/8;
+	grid-row: 2/7;
+}
+
+.player-select-container {
+	padding: 1em;
+	font-size: 1.3em;
+	border: .05em solid #282828;
+	margin: 1em;
+	cursor: pointer;
+}
+
+
+#add-select-players-button, #add-player-select-button {
+	height: 10vh;
+	width: 10vw;
+	grid-column: 9/11;
+	grid-row: 5/7;
+	align-self: center;
+	border: .1em solid #282828;
+	font-weight: 700;
+	background-color: #379683;
+	font-size: 1.3em;
+	color: #EDF5E1;
+
+}
+
+
+
+
+
+/*
+==============================================================================================================
+==============================================================================================================
+
+EVENTS VISUALISATION
+
+==============================================================================================================
+==============================================================================================================
+*/
+
+
+/*
+=======================================================
+
+BASIC PAGE STUFF
+
+=======================================================
+*/
+
+
+
+#events-title {
+	grid-row: 1;
+	grid-column: 2/4;
+	align-self: flex-end;
+	z-index: 100;
+	font-weight: 700;
+	font-size: 4em;
+	color: #EDF5E1;
+}
+
+
+#events-description {
+	grid-row: 2;
+	grid-column: 2/6;
+	z-index: 100;
+	font-size: 1.3em;
+	color: #EDF5E1;
+	font-weight: 200;
+	align-self: center;
+}
+
+.arrow-icon {
+	z-index: 1000;
+	width: 2vw;
+	cursor: pointer;
+	opacity: 0;
+}
+
+#left-icon {
+	grid-row: 4/6;
+	grid-column: 1;
+	align-self: center;
+	justify-self: center;
+}
+
+#right-icon {
+	grid-row: 4/6;
+	grid-column: 6;
+	align-self: center;
+	justify-self: center;
+}
+
+
+
+/*
+=======================================================
+
+PITCH SVG
+
+=======================================================
+*/
+
+
+#svg-events-container {
+	grid-row: 3/7;
+	grid-column: 2/6;
+	z-index: 100;
+}
+
+
+#events-svg {
+	width: 100%;
+	height: 100%;
+}
+
+.pitch-line {
+	stroke: #8EE4AF;
+	stroke-width: .1em;
+}
+
+#pitch-group {
+	transform: translate(0, 50);
+}
+
+#halfway-circle, #left-penalty-spot-circle, #right-penalty-spot-circle {
+	fill: transparent;
+}
+
+.ball {
+	stroke: #EDF5E1;
+	stroke-width: .1em;
+	fill: transparent;
+}
+
+
+.svg-inner-text {
+	stroke: #EDF5E1;
+	fill: #EDF5E1;
+	font-size: 1em;
+}
+
+#recipient-name {
+	opacity: 0;
+}
+
+
+/*
+=======================================================
+
+SELECT PLAYER
+
+=======================================================
+*/
+
+#select-player-events-button {
+	width: fit-content;
+	height: 60%;
+	background-color: #05386B;
+	opacity: 0.8;
+	color:  #EDF5E1;
+	font-size: 1.3em;
+	font-weight: 700;
+	border: .1em solid #EDF5E1;
+	cursor: pointer;
+	opacity: 1;
+	grid-row: 7;
+	align-self: center;
+	justify-self: center;
+	grid-column: 8/10;
+	z-index: 1000;
+}
+
+
+
+/*
+=======================================================
+
+EVENT INFO
+
+=======================================================
+*/
+
+#event-info-container {
+	grid-row: 7/10;
+	grid-column: 2/6;
+	z-index: 1000;
+	height: 80%;
+	align-self: center;
+	display: grid;
+	grid-template-columns: repeat(10, 1fr);
+  	grid-template-rows: repeat(6, 1fr);
+  	opacity: 0;
+
+}
+
+
+
+#match-info-label {
+	grid-row: 1;
+	grid-column: 2/10;
+	justify-self: center;
+	align-self: center;
+	color: #EDF5E1;
+	font-weight: 700;
+	font-size:  1.2em;
+}
+
+
+#event-number-counter {
+	grid-row: 1;
+	grid-column: 10;
+	align-self: center;
+	justify-self: flex-end;
+	font-size:  1.2em;
+	color: #EDF5E1;
+}
+
+#event-type {
+	grid-row: 3;
+	grid-column: 4/7;
+	align-self: center;
+	justify-self: flex-start;
+	font-size:  1.2em;
+	color: #EDF5E1;
+}
+
+
+#event-type-label {
+	grid-row: 3;
+	grid-column: 1/3;
+	align-self: center;
+	justify-self: flex-start;
+	font-size:  1.2em;
+	color: #EDF5E1;
+}
+
+#event-description-label {
+	grid-row: 4;
+	grid-column: 1/3;
+	align-self: center;
+	justify-self: flex-start;
+	font-size:  1.2em;
+	color: #EDF5E1;
+}
+
+
+#event-description-text {
+	grid-row: 4;
+	grid-column: 4/10;
+	align-self: center;
+	justify-self: flex-start;
+	font-size:  1.2em;
+	color: #EDF5E1;
+}
+
+
+
+
+/*
+=======================================================
+
+PLAYER INFO
+
+=======================================================
+*/
+
+
+#player-profile-container {
+	grid-row: 3/7;
+	grid-column: 8/10;
+	z-index: 1000;
+	height: 90%;
+	align-self: center;
+	display: grid;
+	grid-template-columns: repeat(10, 1fr);
+  	grid-template-rows: repeat(8, 1fr);
+  	background-color: #EDF5E1;
+  	padding: 1em;
+  	border-radius: .3em;
+  	border: .2em solid #282828;
+  	opacity: 0;
+}
+
+
+#player-profile-image {
+	width: 5vw;
+	grid-column: 1/3;
+	grid-row: 1/3;
+}
+
+#player-profile-name {
+	grid-column: 5/10;
+	grid-row: 1;
+	justify-self: flex-start;
+	align-self: center;
+	font-weight: 700;
+	font-size: 1.8em;
+}
+
+#playmaker-rank {
+	grid-column: 5/10;
+	grid-row: 2;
+	justify-self: center;
+	align-self: flex-start;
+	font-size: 1.2em;
+}
+
+#field-position {
+	grid-column: 1/10;
+	grid-row: 3;
+	align-self: center;
+	font-size: 1.2em;
+}
+
+#country-team {
+	grid-column: 1/10;
+	grid-row: 4;
+	align-self: center;
+	font-size: 1.2em;
+}
+
+#club-team {
+	grid-column: 1/10;
+	grid-row:5;
+	align-self: center;
+	font-size: 1.2em;
 }
