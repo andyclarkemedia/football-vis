@@ -1,6 +1,8 @@
-# My Notes
+# Playmakers of the 2018 World Cup
 
-This repository contains all of the project files for the data visualisation project - "Playmakers of the 2018 World Cup"
+https://worldcup-playmakers.herokuapp.com/
+
+This repository contains all of the project files for the data visualisation series - "Playmakers of the 2018 World Cup"
 
 Created as part of the data visualisation module in the MSc Computational & Data Journalism programme at Cardiff University
 
